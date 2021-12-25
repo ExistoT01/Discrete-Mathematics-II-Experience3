@@ -27,6 +27,9 @@ public:
 		this->n = 0;
 		this->m = 0;
 		this->r = 0;
+		this->dm = 0;
+		this->dn = 0;
+		this->dr = 0;
 	}
 
 	void setN();
